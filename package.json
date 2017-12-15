@@ -1,0 +1,19 @@
+{
+  "name": "@cloudinertia/crypto-lib",
+  "version": "0.0.1",
+  "description": "A cryptocurrency project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebduhon/cloudinertia-crypto-lib.git"
+  },
+  "author": "Eli B. Duhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebduhon/cloudinertia-crypto-lib/issues"
+  },
+  "homepage": "https://github.com/ebduhon/cloudinertia-crypto-lib#readme"
+}
